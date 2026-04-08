@@ -1,0 +1,10 @@
+.card-img-top {
+    transition: all 0.5s ease;
+    filter: brightness(0);
+}
+.card-img-top:hover {
+    filter: brightness(1);
+}
+.text22 {
+    font-size: 14px;
+}
